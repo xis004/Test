@@ -1,9 +1,9 @@
 import static org.junit.Assert.*;
 import org.junit.*;
 
-public class TestofTest {
+public class MarkdownParseTest {
     @Test
     public void addition() {
-        assertEquals(2, Test1.add());
+        assertEquals(2, 1 + 1);
     }
 }
